@@ -1,2 +1,2 @@
-a = [ "a", "b", "c" ]
-a.reverse_each {|x| print x, " " }
+Reverse.Each = [ "Hello there, and how are you?"]
+ {|x| print x, " " }
